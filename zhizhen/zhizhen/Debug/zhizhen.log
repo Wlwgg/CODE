@@ -1,0 +1,5 @@
+﻿  zhizhen.cpp
+f:\code\zhizhen\zhizhen\zhizhen.cpp(17): error C3861: “printf”: 找不到标识符
+f:\code\zhizhen\zhizhen\zhizhen.cpp(18): error C3861: “puts”: 找不到标识符
+f:\code\zhizhen\zhizhen\zhizhen.cpp(19): error C3861: “printf”: 找不到标识符
+f:\code\zhizhen\zhizhen\zhizhen.cpp(20): error C3861: “puts”: 找不到标识符

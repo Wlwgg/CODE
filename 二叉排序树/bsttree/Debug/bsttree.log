@@ -1,0 +1,3 @@
+﻿  bsttree.cpp
+f:\code\二叉排序树\bsttree\bsttree.cpp(33): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  bsttree.vcxproj -> F:\CODE\二叉排序树\Debug\bsttree.exe
