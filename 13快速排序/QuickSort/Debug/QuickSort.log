@@ -1,0 +1,22 @@
+﻿  pch.cpp
+  QuickSort.cpp
+f:\code\13快速排序\quicksort\quicksort.cpp(16): error C3861: “malloc”: 找不到标识符
+f:\code\13快速排序\quicksort\quicksort.cpp(18): error C2065: “NULL”: 未声明的标识符
+f:\code\13快速排序\quicksort\quicksort.cpp(18): error C3861: “time”: 找不到标识符
+f:\code\13快速排序\quicksort\quicksort.cpp(18): error C3861: “srand”: 找不到标识符
+f:\code\13快速排序\quicksort\quicksort.cpp(21): error C3861: “rand”: 找不到标识符
+f:\code\13快速排序\quicksort\quicksort.cpp(29): error C3861: “printf”: 找不到标识符
+f:\code\13快速排序\quicksort\quicksort.cpp(31): error C3861: “printf”: 找不到标识符
+f:\code\13快速排序\quicksort\quicksort.cpp(98): error C3861: “memcpy”: 找不到标识符
+f:\code\13快速排序\quicksort\quicksort.cpp(103): error C3861: “system”: 找不到标识符
+f:\code\13快速排序\quicksort\quicksort.cpp(116): error C2371: “SSTable”: 重定义；不同的基类型
+  f:\code\13快速排序\quicksort\quicksort.cpp(11): note: 参见“SSTable”的声明
+f:\code\13快速排序\quicksort\quicksort.cpp(119): error C2084: 函数“void ST_Init(SSTable &,int)”已有主体
+  f:\code\13快速排序\quicksort\quicksort.cpp(13): note: 参见“ST_Init”的前一个定义
+f:\code\13快速排序\quicksort\quicksort.cpp(121): error C2039: “elelm”: 不是“SSTable”的成员
+  f:\code\13快速排序\quicksort\quicksort.cpp(8): note: 参见“SSTable”的声明
+f:\code\13快速排序\quicksort\quicksort.cpp(121): error C2065: “st”: 未声明的标识符
+f:\code\13快速排序\quicksort\quicksort.cpp(123): error C2065: “null”: 未声明的标识符
+f:\code\13快速排序\quicksort\quicksort.cpp(131): error C2084: 函数“void ST_printf(SSTable)”已有主体
+  f:\code\13快速排序\quicksort\quicksort.cpp(25): note: 参见“ST_printf”的前一个定义
+f:\code\13快速排序\quicksort\quicksort.cpp(132): error C2059: 语法错误:“)”
