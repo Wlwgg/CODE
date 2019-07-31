@@ -1,5 +1,4 @@
-﻿  pch.cpp
-  QuickSort.cpp
+﻿  QuickSort.cpp
 f:\code\13快速排序\quicksort\quicksort.cpp(16): error C3861: “malloc”: 找不到标识符
 f:\code\13快速排序\quicksort\quicksort.cpp(18): error C2065: “NULL”: 未声明的标识符
 f:\code\13快速排序\quicksort\quicksort.cpp(18): error C3861: “time”: 找不到标识符
