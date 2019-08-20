@@ -9,8 +9,8 @@ git的安装就不再赘述了，在git工具下载后，按默认直接安装�
 ### 2.
 绑定github打开安装好的 Git Bash 输入以下命令：
   ```
-  $ git config --global user.name "YiyiF"
-  $ git config --global user.email "yiyifu97@gmail.com"
+  $ git config --global user.name " "
+  $ git config --global user.email "   "
   Note: name 和 email 为注册github 的用户名及邮箱地址。
 ```
 ### 3. 
@@ -43,7 +43,7 @@ $ ssh-keygen -t rsa -C "yourname@gmail.com"
   ```
   Step 2：上传文件至github打开仓库，点击Clone or download复制下面的地址，然后执行下面的指令：Note: git remote add origin后为所复制的仓库地址；git push -u origin master命令即可上传本地代码。
   ```
-  $ git remote add origin https://github.com/YiyiF/upload_folders.git
+  $ git remote add origin https://github.com/Wlwgg/-CODE.git
   $ git push -u origin master
   ```
   Git Bash输入命令
